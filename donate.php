@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Sign Up | E-Store.com</title>
+    <title>Sign Up | Jeevandaan</title>
         <link rel="shortcut icon" href="img\srtcticon.png" type="image/png">
         <link rel="stylesheet" type="text/css" href="style.css"/>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
